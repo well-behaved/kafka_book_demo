@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * 代码清单3-10
- * Created by 朱小厮 on 2018/8/1.
+ * update by 薛雄 on 2018/8/1.
  */
 public class ConsumerInterceptorTTL implements
         ConsumerInterceptor<String, String> {

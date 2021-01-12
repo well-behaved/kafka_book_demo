@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.Properties;
 
 /**
- * Created by 朱小厮 on 2018/8/12.
+ * update by 薛雄 on 2018/8/12.
  */
 public class ConsumerTTL {
     public static final String brokerList = "10.198.197.73:9092";

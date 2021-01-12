@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 代码清单2-6
- * Created by 朱小厮 on 2018/8/1.
+ * update by 薛雄 on 2018/8/1.
  */
 public class ProducerInterceptorPrefix implements
         ProducerInterceptor<String, String> {

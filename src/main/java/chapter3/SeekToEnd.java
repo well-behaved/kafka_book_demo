@@ -12,7 +12,7 @@ import java.util.*;
 
 /**
  * 代码清单3-7
- * Created by 朱小厮 on 2018/8/19.
+ * update by 薛雄 on 2018/8/19.
  */
 public class SeekToEnd {
     public static final String brokerList = "localhost:9092";

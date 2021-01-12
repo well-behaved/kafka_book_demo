@@ -9,7 +9,7 @@ import java.nio.ByteBuffer;
 import java.util.Map;
 
 /**
- * Created by 朱小厮 on 2018/7/26.
+ * update by 薛雄 on 2018/7/26.
  */
 public class CompanyDeserailizer implements Deserializer<Company> {
     public void configure(Map<String, ?> configs, boolean isKey) {

@@ -11,7 +11,7 @@ import java.util.Properties;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * Created by 朱小厮 on 2018/7/29.
+ * update by 薛雄 on 2018/7/29.
  */
 @Slf4j
 public class OffsetCommitAsyncCallback {

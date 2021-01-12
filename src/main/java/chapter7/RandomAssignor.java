@@ -6,7 +6,7 @@ import org.apache.kafka.common.TopicPartition;
 import java.util.*;
 
 /**
- * Created by 朱小厮 on 2019-03-02.
+ * update by 薛雄 on 2019-03-02.
  */
 public class RandomAssignor extends AbstractPartitionAssignor {
     @Override

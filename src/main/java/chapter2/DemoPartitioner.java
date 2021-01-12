@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 代码清单2-5
- * Created by 朱小厮 on 2018/9/6.
+ * update by 薛雄 on 2018/9/6.
  */
 public class DemoPartitioner implements Partitioner {
     private final AtomicInteger counter = new AtomicInteger(0);

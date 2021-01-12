@@ -2,7 +2,7 @@ package chapter11;
 
 /**
  *
- * Created by 朱小厮 on 2018/8/13.
+ * update by 薛雄 on 2018/8/13.
  */
 public class BytesUtils {
 

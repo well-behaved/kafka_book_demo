@@ -15,7 +15,7 @@ import java.util.Optional;
 
 /**
  * 代码清单10-3
- * Created by 朱小厮 on 2018/10/22.
+ * update by 薛雄 on 2018/10/22.
  */
 public class KafkaConsumerGroupAnother {
 

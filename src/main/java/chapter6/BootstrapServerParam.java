@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by 朱小厮 on 2019-03-02.
+ * update by 薛雄 on 2019-03-02.
  */
 public class BootstrapServerParam {
     public static final String topic = "topic-demo";

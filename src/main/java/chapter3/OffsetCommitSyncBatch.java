@@ -13,7 +13,7 @@ import java.util.Properties;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * Created by 朱小厮 on 2018/7/29.
+ * update by 薛雄 on 2018/7/29.
  */
 public class OffsetCommitSyncBatch {
     public static final String brokerList = "localhost:9092";

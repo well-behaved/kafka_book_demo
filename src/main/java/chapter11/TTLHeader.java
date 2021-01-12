@@ -3,7 +3,7 @@ package chapter11;
 import org.apache.kafka.common.header.Header;
 
 /**
- * Created by 朱小厮 on 2018/8/12.
+ * update by 薛雄 on 2018/8/12.
  */
 public class TTLHeader implements Header {
     private long ttl;//超时时间，单位为秒
